@@ -1,0 +1,48 @@
+/**
+ * Colors
+ *
+ * Where possible, color names should map to standard webcolors.
+ * See: https://zaim.github.io/webcolors/
+ *
+ * For adjustments to existing colors (lightening, darkening) use the
+ * `color` function: https://github.com/postcss/postcss-color-function
+ */
+
+:root {
+  --color-aqua: #7fdbff;
+  --color-blue: var(--color-leonisa);
+  --color-lime: #01ff70;
+  --color-teal: #39cccc;
+  --color-olive: #949300;
+  --color-green: #8ec549;
+  --color-red: #d73043;
+  --color-maroon: #85144b;
+  --color-orange: #f48e28;
+  --color-darkorange: #d76e23;
+  --color-lightorange: #f48e28;
+  --color-fuchsia: #f012be;
+  --color-white: #fff;
+  --color-olivebrown: #84754e;
+  --color-carmel: #ad841f;
+  --color-tan: #c6aa76;
+  --color-navy: #071d49;
+  --color-leonisa: #003865;
+  --color-cyan: #009fda;
+  --color-black: #2c2a29;
+  --color-gray: #63666a;
+  --color-gray80: #ccc;
+  --color-mercury: #bbb;
+  --color-silver: #eee;
+  --color-lightsilver: #fafafa;
+  --color-seagreen: #009ca6;
+  --color-mint: #3cdbc0;
+  --color-purple: #b4b5df;
+  --color-lightpink: #ecc7cd;
+  --color-salmon: #db908c;
+  --color-darkpink: #af605b;
+  --color-peach: #fdd086;
+  --color-yellow: #e8aa00;
+  --color-darkblue: #2f4754;
+  --color-wine: #641e35;
+  --color-sand: #a99a6c;
+}
